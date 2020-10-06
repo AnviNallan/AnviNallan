@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey!👋
 
 <!--
 **AnviNallan/AnviNallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Please go to my [Original Github Profile](https://github.com/AnvithaNallan)**
+
+*The account had to be shifted because of some technical difficulties, please bear with me :) Thanks!*
